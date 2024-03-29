@@ -32,7 +32,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBFaceMatch",
             url: "None",
-            checksum: "d0db575c2ba4071c11601b425c555fb9ffc50c85fa96c1f04ed69b2889c188f5"
+            checksum: "991311a7229f8866587dd50cc2501f7981790a0d206eaa9efbb39f7b33774827"
         ),
         .target(
             name: "BNBFaceMatch_BNBSdkCore",
